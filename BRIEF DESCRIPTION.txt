@@ -1,0 +1,26 @@
+We have Created a e-commerce website for Home Furnitures.
+We have also categorized this furnitures as below:
+   1.Matress
+   2.Sofa
+   3.Wooden Chairs
+
+The Web page contain Home screen which would highlight about the E Commerse Site and We have added below sub pages:
+
+   1.SignUp/Login
+   2.Services
+   3.Contact
+   4.About Us
+
+ Sign Up page-It will be used to create new account and with Login option, user can have track of their orders
+
+ Services - We have listed all the products and the products can be purchased
+
+ Contact - Company contact Details and Locations are added
+
+ About Us- About us can have what we are selling and Our transformation until now.
+
+
+We have also created Feedback page and when user writes review, it will stored in Google Page. In Future this can be published in our user Review Page.
+
+
+
